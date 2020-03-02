@@ -1,0 +1,38 @@
+body {
+  background-color:lightgray
+}
+p {
+  border-style:double dashed;
+  color:maroon;
+  background-color:dodgerblue;
+  text-align:center;
+}
+div {
+  color:slateblue;
+  background-color:mediumseagreen;
+  border:25px solid black;
+  padding:25px;
+  margin:25px;
+  text-align:right;
+}
+img {
+  border:50px solid gray;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+table {
+  border-color:violet;
+  border-style:dotted;
+  width:100%;
+  height:100%;
+  background-color:darkgreen;
+}
+th,td {
+  border-color:purple;
+  border-style:double;
+  text-align:center;
+  vertical-align:middle;
+  color:white;
+  background-color:black;
+}
